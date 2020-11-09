@@ -2,7 +2,7 @@
 Tela de Pedidos
 Teste de Conhecimento - DEV Delphi
 
-Não houve tempo de acrescentar estes requisitos:
+Não tive tempo de acrescentar estes requisitos:
 
 • Criar botão na tela de pedidos, que deve ficar visível quando o código do cliente estiver em
 branco, para carregar pedidos já gravados. Solicitar ( número do pedido ) e carregar o cliente e
