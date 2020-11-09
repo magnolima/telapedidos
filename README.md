@@ -2,6 +2,8 @@
 Tela de Pedidos
 Teste de Conhecimento - DEV Delphi
 
+A tabela de produtos é baseada em material escolar, basicamente livros infantis
+
 Não tive tempo de acrescentar estes requisitos:
 
 • Criar botão na tela de pedidos, que deve ficar visível quando o código do cliente estiver em
